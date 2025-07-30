@@ -2,7 +2,7 @@
 
 Este projeto demonstra e compara a eficácia de um modelo de classificação de imagens de cães e gatos treinado do zero contra um modelo pré-treinado, utilizando a arquitetura VGG16. O principal objetivo é evidenciar a superioridade e a eficiência do **Transfer Learning** no desenvolvimento de redes neurais.
 
-[![Abrir no Colab](https://colab.research.google.com/assets/colab-badge.svg)]([SEU_LINK_AQUI](https://colab.research.google.com/drive/1tSECefzJA2-5e1BnVsBhvTol04kRpCV7?usp=sharing))
+[![Abrir no Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1tSECefzJA2-5e1BnVsBhvTol04kRpCV7?usp=sharing)
 
 ---
 
