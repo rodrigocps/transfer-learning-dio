@@ -29,4 +29,4 @@ A performance de ambos os modelos foi analisada com base em métricas de `loss` 
 | `TensorFlow / Keras` | Framework para construção e treinamento de modelos de Machine Learning. |
 | `NumPy` | Biblioteca para computação numérica e manipulação de arrays. |
 | `Matplotlib` | Biblioteca para visualização de dados e criação de gráficos. |
-| `Google Colab` | Ambiente
+| `Google Colab` | Ambiente de desenvolvimento (Notebooks Jupyter) baseado em nuvem.
